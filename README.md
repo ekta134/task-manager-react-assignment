@@ -24,6 +24,12 @@ src/
  ├── reducer/
  ├── styles/
 
+ ## 📸 Screenshots
+
+![Home](screenshots/home.png)
+![Edit](screenshots/edit.png)
+![Completed](screenshots/completed.png)
+
 ## ▶️ Run Project
 npm install
 npm start
